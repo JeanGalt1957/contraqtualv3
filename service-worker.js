@@ -15,7 +15,7 @@ importScripts("/contraqtualv3/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/contraqtualv3/workbox-v3.6.3"});
 
 importScripts(
-  "/contraqtualv3/precache-manifest.fb4a22db90353e3a8d90d1695d0c66ab.js"
+  "/contraqtualv3/precache-manifest.b9f36e7fcce6adff803a3b08f2193cf3.js"
 );
 
 workbox.clientsClaim();
